@@ -1,3 +1,8 @@
+# 3.4.2
+
+## Backwards Compatibility
+* Added 'NSBluetoothPeripheralUsageDescription' permission for IOS
+
 # 3.4.1
 
 ## Backwards Compatibility
